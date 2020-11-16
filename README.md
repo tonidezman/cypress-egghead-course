@@ -17,6 +17,6 @@ A modern full-stack framework intended to help you focus on the frontend part of
 
 ```bash
 npm install
-bundle install
-foreman start
+npm run api              # first terminal tab
+npx react-scripts start  # second terminal tab
 ```
